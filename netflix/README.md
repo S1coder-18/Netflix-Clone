@@ -4,6 +4,10 @@
 
 - Create vite@latest
 - Configured Tailwind CSS
+- Install react-router-dom (npm install -D react-router-dom)
+- Header created
+- Login created
+- Sign up
 
 # Features 
 - Login / SignUp
@@ -20,3 +24,6 @@
 - NetflixGpt 
    - Search bar
    - Movie Sugeestions
+
+
+
