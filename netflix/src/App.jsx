@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   return (
     <>
-    <div>
+    <div className='text-red-800 font-bold text-3xl'>
       Sachin
     </div>
     </>
